@@ -50,8 +50,8 @@ end
 % Each folder in patch stimuli (i.e., fine, coarse, catch-optional) must be 
 % hosted somewhere that allows a static url for each folder. Amazon S3 or 
 % Github will work.
-S.hosting = {'https://raw.githubusercontent.com/TRHayes/images/master/osf/fine/' ...
-             'https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/'} ;
+S.hosting = {'https://raw.githubusercontent.com/Hannaunddu/meaningMaps/main/data/patch_stimuli/coarse/' ...
+             'https://raw.githubusercontent.com/Hannaunddu/meaningMaps/main/data/patch_stimuli/fine/'} ;
 
          %% 020: Define catch trials (default or user-specified)
 
