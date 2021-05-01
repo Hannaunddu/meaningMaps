@@ -91,7 +91,7 @@ Yes
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_11_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_11.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_9.png"></div>
 
 [[Choices]]
 Meaning Rating
@@ -105,7 +105,235 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_3.png"></div>
+<a><img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_29_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_29.png"></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_8_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_8.png"></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_4.png"></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_5.png"></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_3.png"></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_35_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_35.png"></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_6.png"></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_10_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_10.png"></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_3.png"></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[PageBreak]]
+
+[[Block:BL02]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_26_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_26.png"></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_34_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_34.png"></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_9.png"></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_7.png"></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_4.png"></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_27_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_27.png"></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_9.png"></div>
+
+[[Choices]]
+Meaning Rating
+[[Answers]]
+Very Low 1
+Low 2
+Somewhat Low 3
+Somewhat High 4
+High 5
+Very High 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_2.png"></div>
 
 [[Choices]]
 Meaning Rating
@@ -145,95 +373,11 @@ Somewhat High 4
 High 5
 Very High 6
 
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_14_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_14.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_21_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_21.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_6.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_5.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_12_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_12.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_26_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_26.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
 [[PageBreak]]
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_9.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_1.png"></div>
 
 [[Choices]]
 Meaning Rating
@@ -247,7 +391,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_23_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_23.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_8_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_8.png"></div>
 
 [[Choices]]
 Meaning Rating
@@ -261,7 +405,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_11_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_11.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_7.png"></div>
 
 [[Choices]]
 Meaning Rating
@@ -275,7 +419,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_2.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_2.png"></div>
 
 [[Choices]]
 Meaning Rating
@@ -289,7 +433,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_25_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_25.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_1.png"></div>
 
 [[Choices]]
 Meaning Rating
@@ -303,563 +447,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_10_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_10.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_5.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_13_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_13.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_17_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_17.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_12_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_12.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Block:BL02]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_18_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_18.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_22_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_22.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_3.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_2.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_1.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_8_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_8.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_19_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_19.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_10_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_10.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_27_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_27.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_19_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_19.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_24_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_24.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_7.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_15_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_15.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_9.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_16_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_16.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_6.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_18_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_18.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_22_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_22.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_25_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_25.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_7.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_20_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_20.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_9.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_13_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_13.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_8_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_8.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_16_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_16.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_1.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_23_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_23.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_29_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_29.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_35_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_35.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_24_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_24.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_14_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_14.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_4.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_20_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_20.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_15_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_15.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_21_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_21.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_6.png"></div>
 
 [[Choices]]
 Meaning Rating
@@ -887,49 +475,7 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_17_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_ecoset_3 Kopie_17.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_34_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/coarse/example_scene_34.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_4.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_10_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/TRHayes/images/master/osf/coarse/house_oasis_9_10.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_5.png"></div>
 
 [[Choices]]
 Meaning Rating
