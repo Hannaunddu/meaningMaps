@@ -21,7 +21,7 @@ S.patch_dir = {fullfile(eval(S.path),'data','patch_stimuli','fine')
 S.survey_out = {fullfile(eval(S.path),'data','surveys','fine')
                fullfile(eval(S.path),'data','surveys','coarse')} ;
 S.instructions_path = fullfile(eval(S.path),'data','rating_instructions',...
-                               'PatchOnly_instruction_template.txt') ;
+                               'PatchContext_instruction_template.txt') ;
 
 %--Survey parameters
 % *S.scene_context should match P.scene_context in create_scene_patches
@@ -30,7 +30,7 @@ S.patch_scale = {'fine','coarse'} ;  % Patch scales
 S.job_ratings = 300 ;                % Number of ratings per job
                                      % *Not including catch trials
 S.page_items = 10 ;                  % Number of ratings per page
-S.rating_type = 'Meaning Rating' ;   % String listed above Likert Scale
+S.rating_type = 'Bedeutsamkeit' ;   % String listed above Likert Scale
 
 %--Catch trial parameters are dependent on S.scene_context value
 if S.scene_context==1 % With context
@@ -214,12 +214,12 @@ for s=1:length(S.patch_scale)
 
                 %-- Write Qualtrics answers = Likert scale choices
                 fprintf(dfid,'[[Answers]]\n') ;
-                fprintf(dfid,'Very Low 1\n') ;
-                fprintf(dfid,'Low 2\n') ;
-                fprintf(dfid,'Somewhat Low 3\n') ;
-                fprintf(dfid,'Somewhat High 4\n') ;
-                fprintf(dfid,'High 5\n') ;
-                fprintf(dfid,'Very High 6\n\n') ;               
+                fprintf(dfid,'Sehr niedrig 1\n') ;
+                fprintf(dfid,'Niedrig 2\n') ;
+                fprintf(dfid,'Eher niedrig 3\n') ;
+                fprintf(dfid,'Eher hoch 4\n') ;
+                fprintf(dfid,'Hoch 5\n') ;
+                fprintf(dfid,'Sehr hoch 6\n\n') ;               
             end
 
             %-- Write Qualtrics page break command to file

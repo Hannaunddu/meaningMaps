@@ -18,7 +18,7 @@ The purpose of this study is to gain a better understanding of how people percei
 <p><span style="text-align: center;">R</span><strong style="text-align: center;">eal-world visual scene example</strong></p>
 
 <p><br>
-<strong>Procedures</strong><br>
+<strong>Procedureshhhhhhhhhh</strong><br>
 If you agree to take part in this study, you will be presented with a series of images&nbsp;which are&nbsp;small patches&nbsp;of&nbsp;&nbsp;larger real-world scenes like the one above. &nbsp;Your task will be to&nbsp;to rate how "meaningful" you think each scene patch&nbsp;is. &nbsp;</p>
 
 <p><br>

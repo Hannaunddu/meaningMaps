@@ -3,80 +3,70 @@
 [[Block:Instructions]]
 
 [[Question:Text]]
-<p style="text-align: center; "><strong><span style="font-size:19px;">Informed Consent Form</span></strong><br>
-<o:p></o:p></p>
-
-<p style="text-align: center; ">&nbsp;</p>
-
-<p><strong>Introduction</strong><br>
-The purpose of this study is to gain a better understanding of how people perceive real-world visual scenes like this:</p>
-
-<p>&nbsp;</p>
-
-<p><img src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/instruction_scene.jpg" style="width: 500px; height: 375px;"></p>
-
-<p><span style="text-align: center;">R</span><strong style="text-align: center;">eal-world visual scene example</strong></p>
-
+<p style="text-align: center; ">
+<p><strong><span style="font-size:19px;">Information</span></strong></p>
+​
+<p><strong>Vorstellung der Studie</strong><br>
+Das Ziel dieser Studie ist es, besser zu verstehen, wie Menschen visuelle Szenen wahrnehmen. Hier sehen Sie ein Beispiel einer solchen Szene: <br>
+&nbsp;</p>
+​
+<p><img height="450" src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/instruction_scene.jpg" style="width: 600px; height: 450px;" width="600"><br>
+<strong>Real-world visual scene example</strong></p>
+​
 <p><br>
 <strong>Procedures</strong><br>
-If you agree to take part in this study, you will be presented with a series of images&nbsp;which are&nbsp;small patches&nbsp;of&nbsp;&nbsp;larger real-world scenes like the one above. &nbsp;Your task will be to&nbsp;to rate how "meaningful" you think each scene patch&nbsp;is. &nbsp;</p>
-
-<p><br>
-What do we mean by "meaningful"? We want you to assess how "meaningful" an image is based on how informative or recognizable you think it is. &nbsp;For example, here are two scene patches taken from the example scene above that would be very low meaning. &nbsp;<br>
+Im Folgenden werden Ihnen eine Reihe an Bildern von Häusern&nbsp;gezeigt, die&nbsp;kleine Ausschnitte&nbsp;einer&nbsp;größeren Szene sind. Ihre Aufgabe ist es&nbsp; zu bewerten wie "bedeutsam" Sie denken, dass dieser Ausschnitt für das Erfassen der Szene &nbsp;ist. &nbsp;<br>
 <br>
-<img src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/LM_sidewalk.jpg" style="width: 120px; height: 120px;">&nbsp;<b>Edge of sidewalk</b></p>
-
-<p><img src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/LM_sky.jpg" style="width: 120px; height: 120px;">&nbsp;<b>Sky above house</b><br>
+Was meinen wir mit "bedeutsam"? Wir wollen, dass sie angeben wie "bedeutsam" der Ausschnitt ist, je nachdem wie informativ und hilfreich er für die Erfassung der Szene ist. <br>
 <br>
-Without the example scene it would be difficult to recognize what either of these image patches&nbsp;are. &nbsp;<br>
+ZUm Beispiel sehen Sie hier zwei Ausschnitte, die sehr wenig Informationsgehalt haben. Um beim Erkennen des Auschnittes zu helfen, ist sein Ort im Kontext des größeren Bild grün markiert.&nbsp;<br>
 <br>
-And here are two example patches that would be very high meaning.<br>
-&nbsp;</p>
-
-<p><img src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/HM_house.jpg" style="width: 120px; height: 120px;">&nbsp;<strong>Window and roof</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-
-<p><img src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/HM_car.jpg" style="width: 120px; height: 120px;">&nbsp;<b>Back of car</b>&nbsp;</p>
-
-<p><br>
-Both of these patches contain information that is easily&nbsp;recognized even without the example scene.&nbsp;<br>
+&nbsp; <img height="201" src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/LM_sky_context.jpg" style="width: 400px; height: 201px;" width="400"><br>
 <br>
-You will be asked to rate how "meaningful" you think each scene patch is using a 6-point scale. &nbsp;A rating of 1 means you think the scene patch is very low meaning like the sky example. &nbsp;A&nbsp;rating of 6 means you think the scene patch is very high meaning like the car example.&nbsp; The 6-point scale will look like this:<br>
+&nbsp; <img height="201" src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/LM_sidewalk_context.jpg" style="width: 400px; height: 201px;" width="400"><br><br></p>
 <br>
-<img src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/likert_rating.png" style="width: 550px; height: 63px;"></p>
-&nbsp;
-
-<p>You will select your answer by using the mouse to click on the bubble below the rating you wish to select. The task consists of 300 scene patches&nbsp;and will take approximately 30 minutes or less. &nbsp;This study will be conducted with an online Qualtrics-created survey.</p>
-
-<p>&nbsp;</p>
-
-<p><strong>Risks/Discomforts</strong><br>
-Risks are minimal for involvement in this study. The only foreseeable risk in this study is the possiblity of boredom.&nbsp;<br>
-&nbsp;</p>
-
+<p>Hier sehen Sie zwei Beispiele die hoch in "Bedeutsamkeit" sind.<br>
+<br>
+&nbsp; <img height="202" src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/HM_car_context.jpg" style="width: 400px; height: 202px;" width="400"><br>
+<p>&nbsp; <img height="202" src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/HM_house_context.jpg" style="width: 400px; height: 202px;" width="400"><br /><br />
+Beide Ausschnitte zeigen einfach erkennbare Inhalte, die keinen Kontext benötigen.&nbsp;<br>
+<br>
+<br>
+Sie sollen nun bewerten, wie bedeutsam Sie einen Ausschnitt aud einer Skala von 1 bis 6 finden. &nbsp;Ein Wert von 1 bedeutet, dass sie denken der Ausschnitt ist sehr niedrig in "Bedeutsamkeit", wie der Beispielausschnitt des Himmels. &nbsp;Eine&nbsp;Bewertung von 6 hingegen bedeuted, dass Sie den Ausschnit als sehr bedeutsam empfinden.&nbsp; Viele Ausschnitte fallen irrgendwo zwischen diese beiden Extreme und Sie sollen einen mittleren Wert auswählen. Die 6 Punkte Skala wird so aussehen:</p><p><br>
+<img height="69" src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/likert_rating.png" style="width: 600px; height: 69px;" width="600"></p>
+​
+<p>You will select your answer by using the mouse to click on the bubble below the rating you wish to select. The task consists of 300 scene patches&nbsp;and will take approximately 20 minutes or less.&nbsp;&nbsp;</p><p>
+<br>
+<strong>Risks/Discomforts</strong><br>
+Risks are minimal for involvement in this study. The only foreseeable risk in this study is the possibility of boredom.&nbsp;<br>
+&nbsp;<br>
 <p><strong>Compensation</strong><br>
-Participants will earn 0.5 SONA credits if they complete&nbsp;all 300 items of the&nbsp;task. &nbsp; Completed items are those that are rated in good faith by a human observer. &nbsp;Participants selecting all of the same rating and/or&nbsp;randomly selecting ratings (i.e., 'spamming') will not receive credit.<br>
+Participants will earn 0.5 SONA credits if they complete&nbsp;all 300 items of the&nbsp;task. &nbsp; Completed items are those that are rated in good faith by a human observer. &nbsp;Participants selecting all of the same rating and/or&nbsp;randomly selecting ratings (i.e., 'spamming') will not receive credit.</p>
+&nbsp;<br>
+<strong>Benefits</strong><br>
+There are no direct benefits for you besides the monetary compensation. However, it is hoped that through your participation, researchers will learn more about how we visually process complex visual scenes.<br>
+<br>
+<strong>Confidentiality</strong><br>
+All data obtained will be kept strictly confidential and will only be reported in an aggregate format (by reporting only combined results and never reporting individual ones). All questionnaires will be concealed, and no one other than the primary investigator and assistant researchers below will have access to them. The data collected will be stored in the HIPPA-compliant, Qualtrics-secure database until it has been deleted by the primary investigator.<br>
+&nbsp;<br>
+<strong>Institution Review Board (IRB) Approved</strong><br>
+An Institutional Review Board responsible for human subjects research at INSTITUTION HERE reviewed this research project and found it to be acceptable according to applicable state and federal regulations and University policies designed to protect the rights and welfare of participants in research.<br>
+&nbsp;<br>
+<strong>Participation</strong><br>
+Participation in this research study is completely voluntary. You have the right to withdraw at any time. If you desire to withdraw, please close your internet browser and notify the principal investigator at this email: PI EMAIL HERE&nbsp; &nbsp;<br>
+&nbsp;<br>
+<strong>Questions about the Research, Participation, Concerns, or Complaints</strong><br>
+If you have questions or concerns regarding this study, you may contact the principal investigator&nbsp;at this email:&nbsp;PI EMAIL HERE.&nbsp;<br>
 &nbsp;</p>
+​
+<div><br></div>
 
-<p><strong>Benefits</strong><br>
-There are no direct benefits for participants besides the SONA credit. However, it is hoped that through your participation, researchers will learn more about how we visually process complex visual scenes.<br>
-&nbsp;</p>
 
-<p><strong>Confidentiality</strong><br>
-All data obtained from participants will be kept strictly confidential and will only be reported in an aggregate format (by reporting only combined results and never reporting individual ones). All questionnaires will be concealed, and no one other than then primary investigator and assistant researches listed below will have access to them. The data collected will be stored in the HIPPA-compliant, Qualtrics-secure database until it has been deleted by the primary investigator.<br>
-&nbsp;</p>
 
-<p><b>Institution Review Board (IRB) Approved</b><br>
-An Institutional Review Board responsible for human subjects research at INSTITUTION HERE reviewed this research project and found it to be acceptable according to applicable state and federal redulations and University policies designed to protect the rights and welfare of participants in research.<br>
-&nbsp;</p>
 
-<p><strong>Participation</strong><br>
-Participation in this research study is completely voluntary. You have the right to withdraw at anytime. If you desire to withdraw, please close your internet browser and notify the investigator at this email: PI EMAIL HERE&nbsp; &nbsp;<br>
-&nbsp;</p>
 
-<p><strong>Questions about the Research, Participation, Concerns, or Complaints</strong><br>
-If you have questions or concerns regarding this study, you may contact the principal investigator&nbsp;at this email:&nbsp;PI EMAIL HERE.</p>
 
-<p><o:p></o:p></p>
+
 
 <div style="text-align: right;"><input onclick="" value="Print" type="button"></div>
 
@@ -94,140 +84,140 @@ Yes
 <a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_14_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_14.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_3.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_6.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_15_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_15.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_15_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_15.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_5.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_2.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_11_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_11.png"></div>
+<a><img src="https://github.com/TRHayes/images/tree/master/osf/fine/art_studio_265_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/fine/art_studio_265.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/TRHayes/images/tree/master/osf/fine/art_studio_94_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/fine/art_studio_94.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_8_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_8.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_4.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/TRHayes/images/tree/master/osf/fine/art_studio_275_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/fine/art_studio_275.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
 <a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_6.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_1.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_1.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_12_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_12.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_11_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_11.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[PageBreak]]
 
@@ -235,285 +225,285 @@ Very High 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_2.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_3.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_12_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_12.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
 <a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_16_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_16.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_13_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_13.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_3.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_5.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_7.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_12_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_12.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_10_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_10.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_1.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_9.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_16_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_16.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/TRHayes/images/tree/master/osf/fine/art_studio_265_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/fine/art_studio_265.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
 <a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_9.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_3.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_6.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_15_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_15.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
 <a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_10_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_10.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_14_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_14.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_7.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
 <a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_11_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_11.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/TRHayes/images/tree/master/osf/fine/art_studio_94_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/fine/art_studio_94.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_14_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_14.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_5.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[PageBreak]]
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_7.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_4.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_10_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_10.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
 <a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_13_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_13.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_4.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_1.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_5.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_16_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_16.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_15_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_15.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_12_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_12.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[PageBreak]]
 
@@ -522,70 +512,70 @@ Very High 6
 <a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_2.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_4.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_8_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_oasis_9_8.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_7.png"></div>
-
-[[Choices]]
-Meaning Rating
-[[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
 <a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_8_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_8.png"></div>
 
 [[Choices]]
-Meaning Rating
+Bedeutsamkeit
 [[Answers]]
-Very Low 1
-Low 2
-Somewhat Low 3
-Somewhat High 4
-High 5
-Very High 6
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/TRHayes/images/tree/master/osf/fine/art_studio_275_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/TRHayes/images/tree/master/osf/fine/art_studio_275.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_13_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_13.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
+
+[[Question:Matrix]]
+<div style="text-align: center;">
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/fine/house_ecoset_3 Kopie_9.png"></div>
+
+[[Choices]]
+Bedeutsamkeit
+[[Answers]]
+Sehr niedrig 1
+Niedrig 2
+Eher niedrig 3
+Eher hoch 4
+Hoch 5
+Sehr hoch 6
 
 [[PageBreak]]
 
