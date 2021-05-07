@@ -29,8 +29,8 @@ P.patch_scale = {'fine','coarse'} ;  % Patch scale string IDs
 P.scene_context = 1 ;                % 0=patch only, 1=patch in context
 P.context_color = [57 255 20] ;      % Color used to highlight patch
 P.context_scale = 1 ;              % Scale down context scene size
-P.patch_diameter = [42 91] ;        % Patch diameter (px) [fine coarse]
-P.patch_density = [25 10] ;        % Patch density (number) [fine coarse]
+P.patch_diameter = [70 120] ;        % Patch diameter (px) [fine coarse]
+P.patch_density = [26 10] ;        % Patch density (number) [fine coarse]
 P.catch_trials = 1 ;                 % Include low meaning catch trials
                                      % *Only for P.scene_context=0 case
 
