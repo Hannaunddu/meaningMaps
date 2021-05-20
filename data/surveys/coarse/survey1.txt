@@ -22,7 +22,7 @@ Was meinen wir mit "bedeutsam"? Wir wollen, dass sie angeben wie "bedeutsam" der
 <br>
 Zum Beispiel sehen Sie hier zwei Ausschnitte, die sehr wenig Informationsgehalt haben. Um beim Erkennen des Auschnittes zu helfen, ist sein Ort im Kontext des größeren Bildes grün markiert.&nbsp;<br>
 <br>
-&nbsp; <img height="201" src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/LM_sky_context.jpg" style="width: 400px; height: 201px;" width="400"><br>
+&nbsp; <img height="201" src="" style="width: 400px; height: 201px;" width="400"><br>
 <br>
 &nbsp; <img height="201" src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/LM_sidewalk_context.jpg" style="width: 400px; height: 201px;" width="400"><br><br></p>
 <br>
@@ -82,7 +82,7 @@ Yes
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_8_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_8.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_8_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_8.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -96,7 +96,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_2.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_3.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -110,7 +110,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_9.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_4.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -124,7 +124,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_6.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_2.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -138,7 +138,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_8_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_8.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_3.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -152,7 +152,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_1.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_2.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -166,7 +166,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_7.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_4.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -180,7 +180,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_1.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_1.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -194,7 +194,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_7.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_7.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -208,149 +208,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_5.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_6.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_8_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_8.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_8_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_8.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_7.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_7.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_9.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_2.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_6.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_5.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_9.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_8_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_8.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -368,7 +226,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_4.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_6.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -382,7 +240,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_9.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_5.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -396,7 +254,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_4.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_4.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -410,7 +268,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_8_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_8.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_9.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -424,7 +282,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_9.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_8_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_8.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -438,7 +296,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_3.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_3.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -452,7 +310,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_6.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_6.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -466,7 +324,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_1.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_1.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -480,7 +338,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_8_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_8.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_5.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -494,149 +352,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_2.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_1.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_3.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_3.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_3.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_2.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_1.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_5.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_5.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_2.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_7.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_7.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -652,7 +368,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_9.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_7.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -666,7 +382,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_2.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_9.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -680,7 +396,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_5.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_9_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_9.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -694,7 +410,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_7_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_7.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_6.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -708,7 +424,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_6.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_2_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_9_2.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -722,7 +438,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_3.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_7_1.png"></div>
 
 [[Choices]]
 Bedeutsamkeit
@@ -736,107 +452,7 @@ Sehr hoch 6
 
 [[Question:Matrix]]
 <div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_8_4.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_6_4.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_12_4.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_1_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_1.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[PageBreak]]
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_6_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_11_6.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_3_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_4_3.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_4_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_4.png"></div>
-
-[[Choices]]
-Bedeutsamkeit
-[[Answers]]
-Sehr niedrig 1
-Niedrig 2
-Eher niedrig 3
-Eher hoch 4
-Hoch 5
-Sehr hoch 6
-
-[[Question:Matrix]]
-<div style="text-align: center;">
-<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_2_5.png"></div>
+<a><img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_5_context.png"></a>&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/Hannaunddu/meaningMaps/raw/main/data/patch_stimuli/coarse/Haus_5_5.png"></div>
 
 [[Choices]]
 Bedeutsamkeit

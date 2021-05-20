@@ -22,7 +22,7 @@ Was meinen wir mit "bedeutsam"? Wir wollen, dass sie angeben wie "bedeutsam" der
 <br>
 Zum Beispiel sehen Sie hier zwei Ausschnitte, die sehr wenig Informationsgehalt haben. Um beim Erkennen des Auschnittes zu helfen, ist sein Ort im Kontext des größeren Bildes grün markiert.&nbsp;<br>
 <br>
-&nbsp; <img height="201" src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/LM_sky_context.jpg" style="width: 400px; height: 201px;" width="400"><br>
+&nbsp; <img height="201" src="" style="width: 400px; height: 201px;" width="400"><br>
 <br>
 &nbsp; <img height="201" src="https://raw.githubusercontent.com/TRHayes/images/master/patch_instructions/LM_sidewalk_context.jpg" style="width: 400px; height: 201px;" width="400"><br><br></p>
 <br>
